@@ -1,2 +1,2 @@
 # dokuAjax
-Root folder of ajax ioc dokuwiki
+Folder of ajax ioc dokuwiki
