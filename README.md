@@ -1,2 +1,2 @@
-# dokuAjax
-Folder of ajax ioc dokuwiki
+# overrideLibExe
+ Functionality added to existing lib/exe directory 
