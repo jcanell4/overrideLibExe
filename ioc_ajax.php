@@ -5,7 +5,7 @@
  * @author Josep Cañellas <jcanell4@ioc.cat>
  */
 if (!defined('DOKU_INC')) define('DOKU_INC', realpath(dirname(__FILE__)."/../../") . '/');
-require_once DOKU_INC."lib/plugins/ajaxcommand/ajaxClasses.php";
+require_once DOKU_INC."lib/lib_ioc/ajaxcommand/ajaxClasses.php";
 
 $inst = ajaxCall::Instance();
 $without = $inst->setCommand();
